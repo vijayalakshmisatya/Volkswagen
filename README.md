@@ -1,7 +1,6 @@
-# Volkswagen
+#  4th Edition of i.mobilothon, Volkswagen Group  
 # Predicting Tire Distance & Force
 
-**Hackathon:** 4th Edition of i.mobilothon, Volkswagen Group  
 **Team Name:** DATATRENDS  
 
 ---
